@@ -1,0 +1,22 @@
+{
+  "name": "sfvframebot",
+  "version": "1.0.0",
+  "description": "SFV Frame Data Twitch Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenllee/SFV-Frame-Bot.git"
+  },
+  "author": "SupaAyshun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allenllee/SFV-Frame-Bot/issues"
+  },
+  "homepage": "https://github.com/allenllee/SFV-Frame-Bot#readme",
+  "dependencies": {
+    "tmi.js": "^1.1.2"
+  }
+}
