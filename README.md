@@ -1,2 +1,2 @@
-# SFV-Frame-Bot
+# SFVFrameBot
 SFV Frame Data Twitch Bot
